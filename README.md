@@ -205,4 +205,4 @@ npm run dev         # Start Next.js on http://localhost:3000
 
 ## Time Spent
 
-- **Approximately 10–11 hours** total across database schema design, Express API & business rules, Next.js frontend UI, analytics aggregation, Supabase integration, and documentation.
+- **Approximately 5.5 hours** (roughly 2:00 PM – 7:30 PM) across database schema design, Express API & business rules, Next.js frontend UI, analytics aggregation, Supabase/Render/Vercel deployment, and documentation.
