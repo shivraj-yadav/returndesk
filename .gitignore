@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files — NEVER commit real secrets
+.env
+.env.local
+.env.*.local
+*.env
+server/.env
+client/.env
+!.env.example
+!server/.env.example
+!client/.env.example
+
+# Next.js Build Outputs & Cache
+.next/
+*/.next/
+out/
+build/
+dist/
+
+# PDF and internal files
+*.pdf
+ReturnDesk_Assignment_1.pdf
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Internal Documentation and Preparation Guides
+docs/
+DEPLOYMENT_GUIDE.md
+INTERVIEW_GUIDE.md
+
+# OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
