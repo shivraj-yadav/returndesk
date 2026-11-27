@@ -4,9 +4,9 @@ A full-stack return management desk for online store support agents to raise ret
 
 ## Live Deployment
 
-- **Live Application:** `<ADD_YOUR_DEPLOYED_FRONTEND_URL_HERE>` *(e.g. Vercel URL — update before submission)*
-- **API Base URL:** `<ADD_YOUR_DEPLOYED_BACKEND_URL_HERE>` *(e.g. Render / Railway URL — update before submission)*
-- **GitHub Repository:** `<ADD_YOUR_GITHUB_REPO_URL_HERE>`
+- **Live Application:** https://returndesk-one.vercel.app
+- **API Base URL:** https://returndesk-ajia.onrender.com/api
+- **GitHub Repository:** https://github.com/shivraj-yadav/returndesk
 
 ---
 
